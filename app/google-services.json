@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "943962500906",
+    "firebase_url": "https://prog3-a-d-nguyen.firebaseio.com",
+    "project_id": "prog3-a-d-nguyen",
+    "storage_bucket": "prog3-a-d-nguyen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943962500906:android:5c91787687d4ca71",
+        "android_client_info": {
+          "package_name": "com.example.paigeplander.cs160_prog3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943962500906-ooe0ophb6sotloe1gg4qlc2l7fcto32e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paigeplander.cs160_prog3",
+            "certificate_hash": "805b65ea64c771b023670f050bc4db3a1230cb86"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdYxOPL1DIjXMJlJyrRcdT2XtXkirF-3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943962500906-j9tuqcten2453hhnr8infnl0vktjpm07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

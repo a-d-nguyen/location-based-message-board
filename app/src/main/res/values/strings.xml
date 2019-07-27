@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">cs160_prog3</string>
+    <string name="title_activity_comment_feed">Comment Feed</string>
+    <string name="loading">loading...</string>
+    <string name="web_client_id">943962500906-j9tuqcten2453hhnr8infnl0vktjpm07.apps.googleusercontent.com</string>
+</resources>
